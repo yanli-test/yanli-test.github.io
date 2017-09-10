@@ -1,2 +1,4 @@
 name: Yan Li, PhD
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
