@@ -1,3 +1,7 @@
+---
+layout: default
+title: Team test
+---
 # Team 
 * PI: Yan Li
 * Postdoc: Ru Xu
