@@ -15,3 +15,4 @@ title: Publications
 2.  **Yan Li**, Lijuan Zhu, Xinyi Zhao, Shuangcheng Li, and Yan Yan. Urbanization Impact onTemperature Change in China with Emphasis on Land Cover Change and Human Activity.Journal of Climate, 26(22):8765–8780
 1.  **Yan Li**, X. Zhao, An empirical study of the impact of human activity on long-term temperature change in China : A perspective from energy consumption. *J. Geophys. Res.* **117**, 1–12 (2012). [Link](http://onlinelibrary.wiley.com/doi/10.1029/2012JD018132/abstract)
 
+Check complete list in [ORCID](http://orcid.org/0000-0002-6336-0981), [Google Scholar](https://scholar.google.com/citations?user=hhNjw4MAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Yan_Li282)
